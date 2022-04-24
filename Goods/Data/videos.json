@@ -1,0 +1,32 @@
+[
+  {
+    "id" : "iphone",
+    "name" : "iPhone 13 Pro Max",
+    "headline" : "Our most advanced dual‑camera system ever."
+  },
+  {
+    "id" : "mac",
+    "name" : "mac Book Pro",
+    "headline" : "Supercharged for pros."
+  },
+  {
+    "id" : "watch",
+    "name" : "Apple Watch Series 7",
+    "headline" : "Heavy on features Light on price."
+  },
+  {
+    "id" : "airpods",
+    "name" : "AirPods",
+    "headline" : "Performance you’ll want to hear."
+  },
+  {
+    "id" : "accessory",
+    "name" : "Apple Accessories",
+    "headline" : "How to change Apple watch bands?"
+  },
+  {
+    "id" : "homePod",
+    "name" : "mini HomePod",
+    "headline" : "Your home at your command."
+  }
+]

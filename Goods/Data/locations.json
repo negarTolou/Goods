@@ -1,0 +1,138 @@
+[
+  {
+    "id" : "1",
+    "name" : "Apple Queens Center",
+    "image" : "store",
+    "latitude" : 40.7463853,
+    "longitude" : -74.3183244
+  },
+  {
+    "id" : "2",
+    "name" : "Apple Carnegie Library",
+    "image" : "store",
+    "latitude" : 38.9042597,
+    "longitude" : -77.0776849
+  },
+  {
+    "id" : "3",
+    "name" : "Apple Highland Village",
+    "image" : "store",
+    "latitude" : 29.7508675,
+    "longitude" : -95.4837226
+  },
+  {
+    "id" : "4",
+    "name" : "Apple Willowbrook Mall",
+    "image" : "store",
+    "latitude" : 29.7507199,
+    "longitude" : -95.4837229
+  },
+  {
+    "id" : "5",
+    "name" : "Apple The Grove",
+    "image" : "store",
+    "latitude" : 34.0594134,
+    "longitude" : -118.3712151
+  },
+  {
+    "id" : "6",
+    "name" : "Apple Eaton Centre",
+    "image" : "store",
+    "latitude" : 43.6950278,
+    "longitude" : -79.520084
+  },
+  {
+    "id" : "7",
+    "name" : "Apple Carnegie Library",
+    "image" : "store",
+    "latitude" : 38.9042597,
+    "longitude" : -77.0776849
+  },
+  {
+    "id" : "8",
+    "name" : "iStore The Glen",
+    "image" : "store",
+    "latitude" : -29.9081933,
+    "longitude" : 22.4999851
+  },
+  {
+    "id" : "9",
+    "name" : "Aleph ألف | Apple Premium Reseller",
+    "image" : "store",
+    "latitude" : 24.1178428,
+    "longitude" : 42.6237421
+  },
+  {
+    "id" : "10",
+    "name" : "Apple The Grove",
+    "image" : "store",
+    "latitude" : 34.0594134,
+    "longitude" : -118.3712151
+  },
+  
+  {
+    "id" : "11",
+    "name" : "Apple Store",
+    "image" : "store",
+    "latitude" : 40.4867739,
+    "longitude" : 44.2357759
+  },
+  {
+    "id" : "12",
+    "name" : "Apple Eaton Centre",
+    "image" : "store",
+    "latitude" : 43.6950278,
+    "longitude" : -79.520084
+  },
+  {
+    "id" : "13",
+    "name" : "Apple Zorlu Center",
+    "image" : "store",
+    "latitude" : 41.0163743,
+    "longitude" : 28.8699338
+  },
+  {
+    "id" : "14",
+    "name" : "apple store elahiyeh",
+    "image" : "store",
+    "latitude" : 35.701658,
+    "longitude" : 51.3397933
+  },
+  {
+    "id" : "15",
+    "name" : "Apple Stratford City",
+    "image" : "store",
+    "latitude" : 51.4894849,
+    "longitude" : -0.17424
+  },
+  {
+    "id" : "16",
+    "name" : "Apple White City",
+    "image" : "store",
+    "latitude" : 51.4894015,
+    "longitude" : -0.1742401
+  },
+  {
+    "id" : "17",
+    "name" : "Apple Piazza Liberty",
+    "image" : "store",
+    "latitude" : 43.6189916,
+    "longitude" : 8.6248403
+  },
+  {
+    "id" : "18",
+    "name" : "Apple Sydney",
+    "image" : "store",
+    "latitude" : -33.870194,
+    "longitude" : 150.8323525
+  },
+ 
+  {
+    "id" : "18",
+    "name" : " Apple 表参道",
+    "image" : "store",
+    "latitude" : 34.6188872,
+    "longitude" : 132.8384099
+  }
+  
+]

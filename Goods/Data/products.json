@@ -1,0 +1,120 @@
+[
+  {
+    "id" : "iphone",
+    "name" : "iPhone",
+    "headline" : "Oh. So. Pro.",
+    "description" : "A dramatically more powerful camera system.\n A display so responsive, every interaction feels new again.\n The world’s fastest smartphone chip.\n Exceptional durability.\n And a huge leap in battery life.\nLet’s Pro.",
+    "link" : "https://www.apple.com/iphone/",
+    "image" : "iPhoneCover",
+    "gallery" : [
+      "iPhone1",
+      "iPhone2",
+      "iPhone3",
+      "iPhone4",
+      "iPhone5"
+    ],
+    "fact" : [
+      "Our most advanced dual‑camera system ever.",
+      "Ceramic Shield, tougher than any smartphone glass.",
+      "Durability that’s front and center. And edge to edge.",
+      "iOS 15 is optimized for ProMotion, so the things you do every day feel phenomenally fluid"
+    ]
+  },
+  {
+    "id" : "mac",
+    "name" : "Mac",
+    "headline" : "Supercharged for pros.",
+    "description" : "The Apple M1 chip gives the 13‑inch MacBook Pro speed and power beyond belief. With up to 2.8x CPU performance. Up to 5x the graphics speed. An advanced Neural Engine for up to 11x faster machine learning. And up to 20 hours of battery life so you can go all day.\n It’s our most popular pro notebook, taken to a whole new level.Retina display\n\nWith the brilliant Retina display, images take on an incredible level of detail and realism. Text is sharp and clear. Bright LED backlighting delivers deep blacks and bright whites.",
+    "link" : "https://www.apple.com/mac/",
+    "image" : "macCover",
+    "gallery" : [
+      "mac1",
+      "mac2",
+      "mac3",
+      "mac4"
+    ],
+    "fact" : [
+      "8-core CPU",
+      "True Tone technology A view that adjusts to your environment",
+      "P3 wide color 25% more colors than sRGB"
+    ]
+  },
+  {
+    "id" : "watch",
+    "name" : "iWatch",
+    "headline" : "Heavy on features.\nLight on price.",
+    "description" : "Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking, health-oriented capabilities, and wireless telecommunication, and integrates with iOS and other Apple products and services.\nThe Apple Watch was released in April 2015[18][19] and quickly became the best-selling wearable device",
+    "link" : "https://www.apple.com/watch/",
+    "image" : "watchCover",
+    "gallery" : [
+      "appleWatch1",
+      "appleWatch2",
+      "appleWatch3",
+      "appleWatch4"
+    ],
+    "fact" : [
+      "Full screen ahead.",
+      "It's the ultimate device for a healthy life.",
+      "New hues in bloom."
+    ]
+  },
+  {
+    "id" : "airpods",
+    "name" : "airPods",
+    "headline" : "Wireless. Effortless. Magical.",
+    "description" : "AirPods are wireless Bluetooth earbuds designed by Apple Inc. They were first announced on September 7, 2016 alongside the iPhone 7. Within two years, they became Apple's most popular accessory.\nAirPods are Apple's entry-level wireless headphones, sold alongside the AirPods Pro and AirPods Max.",
+    "link" : "https://www.apple.com/airpods/",
+    "image" : "airPodCover",
+    "gallery" : [
+      "airpod1",
+      "airpod2",
+      "airpod3",
+      "airpod4"
+    ],
+    "fact" : [
+      "Instant setup. Easy listening.",
+      "Performance you’ll want to hear.",
+      "Lay it down, charge it up."
+    ]
+  },
+  {
+    "id" : "tvhome",
+    "name" : "TV & Home",
+    "headline" : "HomePod mini:Room-filling sound in every room.\nApple TV 4K: A higher definition of home entertainment.",
+    "description" : "Simply connect your favorite devices and transform your house into a remarkably smart, convenient, and entertaining home. Control lights, locks, and thermostats with your iPhone — or just your voice. Play any song, in any room, from anywhere. And elevate movie night with theater-like picture and sound. All with the security and privacy of Apple..",
+    "link" : "https://www.apple.com/tv-home/",
+    "image" : "homeCover",
+    "gallery" : [
+      "home1",
+      "home2",
+      "home3",
+      "home4"
+    ],
+    "fact" : [
+      "Your home at your command.",
+      "Seamlessly connected entertainment in every room.",
+      "Run it all with your voice.",
+      "All with the security and privacy of Apple."
+    ]
+  },
+  {
+    "id" : "accessory",
+    "name" : "Accessories",
+    "headline" : "Any case.\n Any band.\nAny style you want.",
+    "description" : "iPhone Accessories\nAirTag and Accessories.\nHeadphones & Speakers.\nMagSafe.\nPhotography.\nPower & Cables.\nWireless Chargers.\nFeatured Mac Accessories\nApple Studio Display\nMagic Keyboard with Touch ID and Numeric Keypad\nMagic Trackpad\nMagic Mouse",
+    "image" : "accessories",
+    "link" : "https://www.apple.com/shop/mac/accessories",
+    "gallery" : [
+      "accessory1",
+      "accessory2",
+      "accessory3",
+      "accessory4",
+      "accessory5"
+    ],
+    "fact" : [
+      "Protect your Mac",
+      "You’ve never heard color like this",
+      "Mac Essentials"
+    ]
+  }
+]

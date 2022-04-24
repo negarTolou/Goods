@@ -1,0 +1,38 @@
+[
+  {
+    "id" : 1,
+    "name" : "airpodSlider"
+  },
+  {
+    "id" : 2,
+    "name" : "macSlider"
+  },
+  {
+    "id" : 3,
+    "name" : "watchSlider"
+  },
+  {
+    "id" : 4,
+    "name" : "iPhoneSlider"
+  },
+  {
+    "id" : 5,
+    "name" : "tvSlider"
+  },
+  {
+    "id" : 6,
+    "name" : "airmaxSlider"
+  },
+  {
+    "id" : 7,
+    "name" : "ipadSlider"
+  },
+  {
+    "id" : 8,
+    "name" : "accessorySlider"
+  },
+  {
+    "id" : 9,
+    "name" : "keyboardSlider"
+  },
+]
